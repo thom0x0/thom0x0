@@ -1,16 +1,37 @@
-## Hi there 👋
+<img 
+  src="https://github.com/thom0x0/thom0x0/blob/main/src/avatar.webp" 
+  alt="avatar" 
+  width="350px" 
+  align="left">
 
-<!--
-**thom0x0/thom0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">thom ★</h3>
 
-Here are some ideas to get you started:
+<pre align="left"> 
+👋 hi, i'm <strong>thom</strong>, 15y, based in portugal 🇵🇹
+infp-t, interested in history and politics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐾 currently learning the basics of <strong>html</strong> and <strong>css</strong>,
+starting with <strong>javascript</strong>
+💕 interested in <strong>frontend</strong> and clean design
+</pre>
+
+<h4 align="left">
+📚 interests: <strong>history, politics, technology</strong>
+</h4>
+
+<h4 align="left">
+🌱 status: <strong>student</strong>
+</h4>
+
+<p align="left">
+↳ <a href="https://thom.lol">thom.lol</a>
+</p>
+
+<hr>
+
+<p align="center">
+<img 
+  src="https://github.com/thom0x0/thom0x0/blob/main/src/banner.webp" 
+  alt="banner" 
+  width="67%">
+</p>
