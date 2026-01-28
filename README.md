@@ -2,7 +2,7 @@
   src="https://github.com/thom0x0/thom0x0/blob/main/src/avatar.webp" 
   alt="avatar" 
   width="350px" 
-  align="left">
+  align="right">
 
 <h3 align="left">thom ★</h3>
 
